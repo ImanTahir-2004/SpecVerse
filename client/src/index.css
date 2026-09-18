@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --accent: #00df9a;
+  --accent-dim: rgba(0, 223, 154, 0.15);
+  --bg: #0a0a0a;
+  --card-bg: #141414;
+  --card-border: #222;
+  --text: #f0f0f0;
+  --text-muted: #777;
+  --danger: #ff4d4d;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  margin: 0;
+}
+
+#root {
+  min-height: 100vh;
+}
