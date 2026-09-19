@@ -58,12 +58,12 @@ const trendyCatalogue = [
     badge: 'Sale', 
     rating: 5 
   },
-  { 
-    name: 'classic black ', 
-    category: 'aviater', 
+    { 
+    name: 'Classic Black', 
+    category: 'Aviator', 
     price: 155, 
     originalPrice: 199, 
-    description: 'decent and classic black sun glasses .', 
+    description: 'Decent, timeless black sunglasses that go with everything.', 
     previewImage: '/glasses-transparent.png',
     overlayImage: '/glasses-transparent.png',
     badge: 'Trending', 
